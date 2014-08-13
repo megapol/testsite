@@ -1,0 +1,262 @@
+<?php $section = "caepipe"; // for subnav menu to display ?>
+<?php $page = "caepipe"; ?>
+<?php $product = "CAEPIPE"; // enter: CAEPIPE, checkSTRESS, HOTclash, dataTranslators, sstSERVICES ?>
+<?php $page_title = "PIPE STRESS ANALYSIS Software: Piping stress analysis - CAEPIPE - Rapid Modeling, Quick Analysis, Easy Pipe Stress Results Review - Takes about 20 minutes to learn the basics"; ?>
+<?php $meta_descrip = "Page provides info on the FAST, Incredibly Easy, Get-it-done now Pipe Stress Analysis or Piping Stress Analysis Software - CAEPIPE"; ?>
+<?php $meta_keywords = "pipe stress, pipe stress analysis software, piping stress analysis, ASME B31.1, B31.3, B31.4, B31.5, B31.8, pipe stress calculation, FRP pipe stress, underground piping analysis "; ?> 
+<?php include ("inc_header.php"); ?>
+
+<div id="bannerhomewrap1">
+<!--<div id="bannerhome1">
+<!--<div id="bannerwrap">
+<!--<div id="bannerhome"> -->
+
+
+	<div id="linkbar1">
+		<a href="piping-software-download.php" id="download">
+			<h2>Download Free Evaluation</h2>
+			<p>See how easy, flexible, versatile and productive our software really is.</p>
+		</a>
+        
+		<a href="pricing.php" id="pricing">
+		  <h2>Request Pricing</h2>
+			<p>Get pricing by return email
+			for all products.</p>
+	 	</a>
+
+      	<a href="support.php" id="support">
+			<h2>Free Technical Support</h2>
+			<p>Use our customer support to get your questions answered.</p> 
+		</a>
+		<div class="clearfloats"><!-- --></div>
+	</div>
+<!--</div>-->
+</div><!-- end bannerwrap -->
+
+<div id="contentwrap">
+<div id="content">
+<?php include ("inc_leftcol.php"); ?>
+	
+	<div id="main">
+	   <a name="landing" id="landing"></a>
+      <!--////////// START Product feature Widget ////////////////// -->
+      <h2 class="home">Top Reasons Pipe Stress Pros Pick &nbsp;<img src="images/product_caepipe.gif" alt="CAEPIPE-piping stress analysis" width="173" height="16" /></h2>
+      <div id="product_features">
+      
+      	<div class="pnav">
+            <a class="feat1 featred" id="featnav1" >Created For You</a>
+            <a class="feat2" id="featnav2" >Just Right</a>
+            <a class="feat3" id="featnav3" >For Engineers</a>
+            <a class="feat4" id="featnav4" >Quick & Profitable</a>
+            <a class="feat5" id="featnav5" >Free Viewer</a>
+            <a href="caepipe.php" class="feat6" id="featnav6" >Proven Reliability</a>
+            <a href="caepipe.php" class="feat7" id="featnav7" >Tremendous Value</a>
+        </div>
+      
+        <div class="boxgrid2">
+          <div class="cover2 boxcaption2" style="top:0;">
+            
+            <!-- Feature 1  -->
+            <div class="prodbanner2" style=" background:url(images/caepipe1.png) right top no-repeat;">
+            	<h3>Created for Piping Industry<br />
+				Mavericks Like You</h3><br />
+                <p>CAEPIPE (kay&middot;pipe) is the<br />
+                ultimate tool for pipe stress <br />
+                analysis & design pros needing reliable<br />
+                "get-it-done" pipe stress analysis<br />
+                software for the everyday demands <br />
+                of a busy workplace.</p>
+            </div>
+            
+            <!-- Feature 2  -->
+            <div class="prodbanner2">
+            	<h3>Everything you need. Nothing you don't.</h3><br />
+              <p>CAEPIPE is a real workhorse with the industry's widest import capability, most user-friendly interface and a comprehensive list of technical features. Enjoy a practical work platform unencumbered by a hard-to-use interface, seldom used features or add-ons. Import from AutoCAD Plant 3D, PDMS, PDS/SmartPlant, Autoplant and others.</p>
+            </div>
+            
+            <!-- Feature 3  -->
+            <div class="prodbanner2" style=" background:url(images/caepipe4.png) right top no-repeat;">
+            	<h3>Developed for Engineers<br />
+				...By Engineers</h3><br />
+			
+                <p>SST introduced CAEPIPE for <br />
+                pipe stress analysis over <br />
+                30 years ago and has<br /> 
+                continuously improved it <br />
+                based on user input <br />
+                and our experience.</p>
+            </div>
+            
+            <!-- Feature 4  -->
+            <div class="prodbanner2" style=" background:url(images/kptooltip1.png) right top no-repeat;">
+            	<h3>Quick and Profitable</h3><br />
+                <p>CAEPIPE is <em>fast</em>! Tight and<br />
+                efficient computer coding, <br />
+                productivity-enhancing <br />
+                features and optimized solution <br />
+                algorithms help you quickly <br />
+                solve pipe stress analysis problems <br />
+                and move on, thus increasing your profitability.</p>
+            </div>
+            
+            <!-- Feature 5  -->
+            <div class="prodbanner2" style=" background:url(images/deflected4.gif) right top no-repeat;">
+            	<h3>CAEPIPE Viewer For Clients</h3><br />
+                <p>Your clients will appreciate <br />
+                CAEPIPE&rsquo;s free downloadable <br />
+                version which doubles as a  <br />
+                pipe stress model and results viewer:</p>
+                <p>The ONLY pipe stress software </p>
+                <p>in the industry 
+                  with this added benefit!</p>
+            </div>
+            
+            <!-- Feature 6  -->
+            <div class="prodbanner2" style=" background:url(images/deflected5.gif) right top no-repeat;">
+            	<h3>Proven Reliability</h3><br />
+                <p>World-class piping stress analysis software<br />
+                continues to meet the stringent <br />
+                requirements of demanding<br />
+                 pipe stress engineers across all levels <br /> 
+				in energy, process and <br />
+				aerospace (ABB, BP, ConEd, <br />
+                Exxon, Northrop, Swedish Inspecta,<br />
+				among others).</p>
+            </div>
+            
+            <!-- Feature 7  -->
+            <div class="prodbanner2" style=" background:url(images/deflected7.gif) right top no-repeat;">
+            	<h3>Tremendous Value</h3><br />
+                <p>Through its incredible<br />
+                effect on your productivity, <br />
+                lower capital cost and <br />
+                a shorter learning curve, <br />
+                CAEPIPE offers unrivaled <br />
+				value for tough economic <br />
+				times today and tomorrow.</p>
+          </div>
+            
+
+          </div>
+        </div>
+        <!--////////// END Product feature Widget ////////////////// -->
+      
+      </div>
+      	  <div id="sidebar">
+          
+          <div class="box">
+      <h3><strong>New CAEPIPE website</strong></h3>
+      <p><a href="http://caepipe.com/index.php"><strong>CAEPIPE.COM</strong></a> is a new focused site dedicated to the industry's leading pipe stress analysis software solution, CAEPIPE.</p>
+      
+      </div>
+       <div class="addthis">
+        <a href="http://www.addthis.com/bookmark.php" 
+    			  style="text-decoration:none; vertical-align: middle" 
+  				  onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" 
+    			  onmouseout="addthis_close();" 
+                  onclick="return addthis_sendto();"><img 
+                  src="images/addthis.png" 
+                  width="63" height="16" border="0" alt="Bookmark" /></a>
+	    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=sstsystems"></script>
+        </div>
+            
+		  <div class="box">
+				<h3>Why CAEPIPE?</h3>
+				<ul>
+				<li>Easiest to (re)learn, Cuts Your Time by Half</li> 
+				<li>Uniquely Quick "What-If" Pipe Stress Studies</li>
+				<li>MOST Support for <a href="data-translators.php">Importing</a> from 3<sup>rd</sup> party 3D plant design (PDMS/PDS/AutoCAD P3D/etc.)</li>
+				<li>Acclaimed User-interface</li>
+				<li>Realistic Graphical Visualization using industry-standard OpenGL &reg; </li>
+				<li>Verified Results Accuracy</li>
+				<li>Mature, Robust &amp; Comprehensive</li>
+				<li>Easier, Faster and More Productive</li>
+				</ul>
+				<p><a href="caepipe-modeling-features.php" class="arrowred">Technical Specifications</a></p>
+				<p><a href="piping-software-download.php" class="arrowred">Download Free Evaluation</a></p>
+				
+				<p><a href="downloads/CAEPIPEInfo.pdf" class="pdf">CAEPIPE Data Sheet</a></p>
+				
+		</div>
+						
+			<div class="box">
+				<h3>CAEPIPE Facts</h3>
+				<ul>
+				<li>The FASTEST modeling techniques, Guaranteed</li>
+				<li>FREE Evaluation copies, uncrippled and FULL-featured</li>
+				<li>First on the PC, over 30-years ago in 1983!</li>
+				<li>Technologically, the Most Advanced Pipe Stress Pkg.</li>
+				<li>MOST Responsive Support</li>
+				</ul>
+				
+				<p><a href="downloads/CAEPIPEInfo.pdf" class="pdf">CAEPIPE Data Sheet</a></p>
+			</div>
+			
+			
+			<div class="box">
+				<h3>Competitive Upgraders</h3>
+				<p>If you are stuck with costly, hard to use pipe stress analysis software, we will help you in three ways.</p>
+				<ul>
+				<li>Reduced Upgrade Pricing.</li> 
+				<li>Doubling Your Current Productivity, NOW!</li>
+				<li>Importing all of your old data.</li>
+				</ul>
+				<p><a href="/pricing.php" onClick="_gaq.push(['_trackEvent', 'Pricing Request', 'Entry Link', 'caepipe.php_sectionF']);"><strong>REQUEST PRICING</strong></a></p>
+			</div>
+	  </div><!-- end sidebar -->
+		<!--////////// Main Content Starts ////////////////// -->
+		
+		<h2>Rapidly Create & Analyze Piping Systems of Any Complexity with the Least Effort</h2>
+		<p>CAEPIPE (kay-pipe), the 1<sup>st</sup> pipe stress analysis software on PC (1983), <em>continues to be the preferred piping stress analysis tool</em> for static and dynamic pipe stress analysis of systems of <em>any complexity</em> in any industry. </p>
+        <p>With CAEPIPE's world-acclaimed productivity-enhancing 3D modeler, our piping stress analysis software, CAEPIPE lets you analyze for the effects of weight, 10 pressures and temperatures, earthquake, time varying and harmonic loads, among others, and <strong>interactively and iteratively design your system for optimum configuration in the shortest time</strong>.
+</p>
+		<p>CAEPIPE also checks for piping code and guideline compliance (ASME, B31, International codes, API, NEMA) and can export data to select major plant design systems (AVEVA and CADMATIC currently). We offer many <a href="data-translators.php">data translators</a> to import piping geometry and design data from many platforms.</p>
+        <p><a href="/pricing.php" onClick="_gaq.push(['_trackEvent', 'Pricing Request', 'Entry Link', 'caepipe.php_sectionA']);"><strong>REQUEST PRICING</strong> (Several  Options Available)</a></p>       
+		<h3 class="greybar">Benefits of Pipe Stress Analysis with CAEPIPE</h3>
+		<div>
+		  <ul>
+		    <li><strong>Execute More Projects in the same time, with Less Effort</strong></li>
+			<li><strong>Design Better Piping Systems, <em>Faster</em></strong></li>
+			<li><strong>Quickest Return on Your Investment</strong></li>
+	  		<li><strong>Reduce Your Overall Cost</strong></li>
+			<li><strong>Make Your Job Easier</strong></li>		
+		  </ul>
+	  </div>
+		<p>You will save time and money, and avoid frustration. Save time by using CAEPIPE's carefully designed features for rapid modeling, powerful pipe stress analysis with short solution times, and easy review of pipe stress results. Avoid frustration by working with the elegantly simple and intuitive user-interface to model or edit simple or complex piping systems. Benefit from being able to <strong>quickly evaluate alternate piping design solutions ("what-if" scenarios)</strong>. Finally, save money because first, CAEPIPE costs less and second, you see dramatically increased productivity, and third, CAEPIPE requires almost no training at all. It pays for itself faster than others do, if at all.</p>
+
+		<p><a href="caepipe-features.php" class="arrowred">See CAEPIPE's Unique Strengths and Benefits</a></p>
+       
+
+		<h3 class="greybar">Everything You Need, Nothing You Don't</h3>
+<p><strong>If your pipe stress analysis needs are like those of the mainstream analysts</strong>, and you are looking for a cost-effective, efficient, easy to learn and use software that cuts your time required by up to 50%, download CAEPIPE and see for yourself what we mean.</p> 
+<p>For those of you who need the following infrequently used features, CAEPIPE is not for you.<br /><br /> 
+&bull; Multiple level response spectrum analysis<br /> 
+&bull; Submerged piping<br /> 
+&bull; WRC 107 stresses (planned to be included soon)<br /> 
+<br /> </p>
+<p>If you do not need the above, find out why more and more companies stuck with expensive and hard-to-use competing pipe stress engineering software (with costly capital costs, needlessly required training costs, and maintenance costs that run in the thousands of dollars per copy every year) are switching to CAEPIPE. Download a <a href="piping-software-download.php">free uncrippled, fully-featured copy</a> that <strong>you can learn to use in 20 minutes or less.</strong></p>
+
+<p><a href="downloads/CAEPIPEInfo.pdf" class="pdf">Download CAEPIPE (pipe stress analysis software) Specifications</a></p>
+<p><a href="caepipe-features.php" class="arrowred">See CAEPIPE's Unique Strengths and Benefits</a></p>
+<p><a href="caepipe-hw-requirements.php" class="arrowred">Hardware Requirements</a>: Simple; Any PC running 32/64-bit MS-Windows (Win NT 4.0 or later) will do.</p>
+</div><!-- end main -->
+	
+	<div class="clearfloats"><!-- --></div>
+</div>
+</div><!-- end contentwrap -->
+
+<?php include ("inc_footer.php"); ?>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3763605-1']);
+  _gaq.push(['_trackEvent(category, action, opt_label)']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
